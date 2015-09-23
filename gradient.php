@@ -1,5 +1,5 @@
-#PHP script creating a graphic gradient
-#From a Reddit /r/dailyprogrammer challenge
+# PHP script creating a graphic gradient
+# From a Reddit /r/dailyprogrammer challenge
 
 <?php
 $width = 1000;
